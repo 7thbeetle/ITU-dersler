@@ -1,0 +1,58 @@
+name: Ders Programı CSV Güncelleme
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Her 45 dakikada bir çalış (UTC saati)
+    - cron: "*/45 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: itu-dersler-update
+  cancel-in-progress: false
+
+jobs:
+  update-csv:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+    steps:
+      - name: Repo checkout
+        uses: actions/checkout@v4
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Chrome kur
+        uses: browser-actions/setup-chrome@v1
+
+      - name: Bağımlılıkları kur
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: OBS verisini çek ve CSV oluştur
+        run: |
+          python -u itu_obs_pull.py
+
+      - name: Son güncelleme zamanını yaz
+        run: |
+          mkdir -p data
+          TS=$(TZ=Europe/Istanbul date +"%Y-%m-%dT%H:%M:%S%z")
+          echo "{\"timestamp\":\"$TS\"}" > data/last_update.json
+
+      - name: Değişiklikleri commit et
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit -m "Ders programı CSV güncellendi [skip ci]"
+          git push
