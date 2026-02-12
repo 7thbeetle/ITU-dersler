@@ -1,14 +1,3 @@
-"""
-ITU OBS Ders Programı CSV Çekici (çoklu Chrome instance destekli)
-
-Bu script, OBS Ders Programı sayfasından tüm ders bilgilerini çekip
-data/program.csv dosyasına kaydeder. GitHub Actions ile otomatik çalışır.
-
-Tek seferde tüm dersleri tek Chrome ile çekmek yerine, ders kodu listesini
-parçalara bölüp aynı anda birden fazla Chrome instance'ı ile paralel olarak
-çekebilir.
-"""
-
 from __future__ import annotations
 
 import csv
@@ -27,7 +16,6 @@ from selenium.webdriver.support.ui import Select, WebDriverWait
 # === Ayarlar ===
 site_url = "https://obs.itu.edu.tr/public/DersProgram"
 
-# İstersen değiştirip bazı ders kodlarını hariç tutabilirsin
 excluded_codes: list[str] = []
 
 # Çekim için Chrome instance sayısı
