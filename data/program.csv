@@ -1501,7 +1501,7 @@ ICM 4025E,Health and Design,Physical (Face to face),Ervin Garip,Monday,10:30/12:
 ICM 4029E,Interior Space in Cinema,Physical (Face to face),Demet Arslan Dinçay,Wednesday,10:30/12:29,MMB / 123A,23,23,"IAD_LS, ICM_LS",24574
 ICM 4032,Mimari Üsluplar,Physical (Face to face),"Deniz Çalışır Pençe , / Ahmet Erdem Tozoğlu",Thursday,10:30/12:29,MMB / 319,15,15,ICM_LS,24580
 ICM 4035E,"Social Transform.,Gender&Space",Physical (Face to face),Emine Görgül,Wednesday,10:30/12:29,MMB / 307,20,20,"IAD_LS, ICM_LS",24579
-ICM 4041E,Urban Interiors,Physical (Face to face),Ahmet Erdem Tozoğlu,Wednesday,13:30/15:29,MMB / 319,18,18,"IAD_LS, ICM_LS",24575
+ICM 4041E,Urban Interiors,Physical (Face to face),Ahmet Erdem Tozoğlu,Wednesday,13:30/15:29,MMB / 319,18,20,"IAD_LS, ICM_LS",24575
 ICM 4042E,Yacht Interioris Design,Physical (Face to face),Mert Ünnü,Friday,10:30/12:29,MMB / 303,21,20,"IAD_LS, ICM_LS",25290
 ICM 408E,Comm Design In Interior Arch.,Physical (Face to face),Seniye Banu Garip,Monday,10:30/12:29,MMB / 216,72,80,"IAD_LS, ICM_LS",24582
 ICM 449E,Interior Arch.Desgn Studio IV,Physical (Face to face),Orkan Zeynel Güzelci,Monday / Thursday,13:30/17:29 / 13:30/17:29,MMB / MMB / 203C / 203C,3,3,"IAD_LS, ICM_LS",24567
@@ -2883,6 +2883,10 @@ MRT 412,Management Seminar,Physical (Face to face),Levent Kırval,Thursday,08:30
 MRT 414,Physical Education II,Physical (Face to face),Hakan Çap,Friday,14:30/16:29,DZB / --,1,10,SDU_LS,23853
 MRT 422,Bridge Resource Management,Physical (Face to face),Cemil Yurtören,Tuesday,08:30/13:29,DZB / --,1,10,SDU_LS,23845
 MRT 492,Graduation Project,Physical (Face to face),Tanzer Satır,-,-/-,- / -,1,10,SDU_LS,23856
+MST 272,Marit. Human Resources Manag.,Physical (Face to face),Leyla Tavacıoğlu,Tuesday,15:30/17:29,DZB / --,2,60,"MEN_LS, MTM_LS",24906
+MST 402,Mar.Sec. & Quality Manag. Sys,Physical (Face to face),İsmail Kandemir,Wednesday,18:30/20:29,DZB / --,5,60,"MEN_LS, MTM_LS",24905
+MST 412,Ship Surveying Procedures,Physical (Face to face),Fırat Bolat,Thursday,16:30/18:29,DZB / --,0,60,MTM_LS,24903
+MST 461,Terminal & Tanker Operations,Physical (Face to face),Tanzer Satır,Tuesday,15:30/17:29,DZB / --,5,60,"MEN_LS, MTM_LS",24900
 MTH 102,Calculus II,Physical (Face to face),Samet Yücel Kadıoğlu,Monday / Tuesday,15:30/17:29 / 08:30/11:29,FEB / FEB / B1_428 / B1_428,22,35,"MBI_LS, SBL_LS",24840
 MTH 104,Calculus II,Physical (Face to face),Ahmet Kırış,Monday / Tuesday,15:30/17:29 / 08:30/11:29,INB / INB / A101 / A101,20,30,SED_LS,24917
 MTH 105,Calculus I,Physical (Face to face),Saadet Seher Özer,Tuesday,08:30/11:29,FEB / L200,11,20,SIS_LS,24918
