@@ -3449,6 +3449,45 @@ TES 122E,Vis.CommII:Visualization&Persp,Physical (Face to face),Safiye Elif Serd
 TES 122E,Vis.CommII:Visualization&Persp,Physical (Face to face),Ayşegül Akçay Kavakoğlu,Friday,08:30/12:29,MMB / 214,24,0,"ARC_LS, ENTE_LS, EUT_LS, EUTE_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS, PEM_LS, PEME_LS, SBP_LS, SBPE_LS",24727
 TES 122E,Vis.CommII:Visualization&Persp,Physical (Face to face),Ethem Gürer,Friday,08:30/12:29,MMB / 203B,61,0,"ARC_LS, ENTE_LS, EUT_LS, EUTE_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS, PEM_LS, PEME_LS, SBP_LS, SBPE_LS",24728
 TES 122E,Vis.CommII:Visualization&Persp,Physical (Face to face),Gamze Kazancı,Friday,08:30/12:29,MMB / CATI2,8,0,"ARC_LS, ENTE_LS, EUT_LS, EUTE_LS, IAD_LS, ICM_LS, MIM_LS, MIME_LS, PEM_LS, PEME_LS, SBP_LS, SBPE_LS",25172
+THO 110,Oyun Ritim Bilgisi II,Physical (Face to face),Eyüp Uzunkaya,Monday,10:30/12:29,TMB / --,12,12,THO_LS,21939
+THO 110,Oyun Ritim Bilgisi II,Physical (Face to face),Eyüp Uzunkaya,Monday,08:30/10:29,TMB / --,12,12,THO_LS,21940
+THO 112,Hareket Anatomisi II,Physical (Face to face),Nihal Cömert,Friday,16:00/17:59,TMB / --,22,22,THO_LS,21945
+THO 112,Hareket Anatomisi II,Physical (Face to face),Nihal Cömert,Friday,14:00/15:59,TMB / --,4,10,THO_LS,25283
+THO 114,Oyun Tekniği II,Physical (Face to face),İlknur Bektaş,Tuesday / Friday,13:30/15:29 / 10:30/12:29,TMB / TMB / -- / --,20,20,THO_LS,21942
+THO 116,Bale II,Physical (Face to face),Funda Bozkurt Saygı,Wednesday / Thursday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,12,12,THO_LS,21936
+THO 116,Bale II,Physical (Face to face),Yıldız Çankaya,Wednesday / Thursday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,10,11,THO_LS,22472
+THO 118,Kondisyon Ve Esneme II (Krdsz),Physical (Face to face),Funda Bozkurt Saygı,Thursday / Friday,08:30/10:29 / 14:00/15:59,TMB / TMB / -- / --,22,22,THO_LS,21947
+THO 120,Halk Oyunları Bilgisi,Physical (Face to face),Eyüp Uzunkaya,Thursday / Friday,16:30/17:29 / 08:30/10:29,TMB / TMB / -- / --,23,25,THO_LS,21943
+THO 202,Oyun Ritim Bilgisi IV,Physical (Face to face),Salim Sınar,Thursday,08:30/10:29,TMB / --,1,20,THO_LS,21969
+THO 204,Türk Halk Oyunları II,Physical (Face to face),Salim Sınar,Tuesday / Thursday,08:30/10:29 / 10:30/12:29,TMB / TMB / -- / --,4,20,THO_LS,21951
+THO 205,Oyunda Yöresel Tavırlar I,Physical (Face to face),Eyüp Uzunkaya,Thursday / Friday,10:30/12:29 / 14:00/15:59,TMB / TMB / -- / --,1,10,THO_LS,25225
+THO 206,Oyunda Yöresel Tavırlar II,Physical (Face to face),Eyüp Uzunkaya,Monday / Friday,15:30/17:29 / 10:30/12:29,TMB / TMB / -- / --,5,20,THO_LS,21949
+THO 208,Oyun Repertuvarı II,Physical (Face to face),Levent Ketenci,Monday / Wednesday,10:30/12:29 / 13:30/15:29,TMB / TMB / -- / --,1,20,THO_LS,21952
+THO 304,Türk Halk Oyunları IV,Physical (Face to face),Cenap Güngör,Monday / Wednesday,08:30/10:29 / 08:30/10:29,TMB / TMB / -- / --,0,20,THO_LS,21983
+THO 306,Oyunda Yöresel Tavırlar IV,Physical (Face to face),Aydın Balcı,Tuesday / Thursday,08:30/10:29 / 08:30/10:29,TMB / TMB / -- / --,2,20,THO_LS,21982
+THO 307,Oyun Repertuvarı III,Physical (Face to face),Serdar Bombacı,Tuesday / Friday,13:30/15:29 / 14:00/15:59,TMB / TMB / -- / --,2,10,THO_LS,25226
+THO 308,Oyun Repertuvarı IV,Physical (Face to face),Serdar Bombacı,Monday / Friday,10:30/12:29 / 08:30/10:29,TMB / TMB / -- / --,3,10,THO_LS,21975
+THO 312,Oyun Analizi II,Physical (Face to face),Eyüp Uzunkaya,Tuesday / Wednesday,16:30/17:29 / 10:30/12:29,TMB / TMB / -- / --,1,20,THO_LS,22001
+THO 314,Koreoloji II,Physical (Face to face),İlknur Bektaş,Tuesday / Friday,10:30/12:29 / 16:00/17:59,TMB / TMB / -- / --,5,20,THO_LS,21981
+THO 318,Sahne Projesi II (Kredisiz),Physical (Face to face),Levent Ketenci,Thursday,13:30/17:29,TMB / --,0,10,THO_LS,21978
+THO 318,Sahne Projesi II (Kredisiz),Physical (Face to face),İlknur Bektaş,Thursday,13:30/17:29,TMB / --,0,10,THO_LS,21980
+THO 372,Sahne ve Beden Dili II,Physical (Face to face),Kemal Akdoğan,Monday,13:30/15:29,TMB / --,20,20,SES_LS,21932
+THO 412,Geleneksel Giyim Kuşam II,Physical (Face to face),İlknur Bektaş,Tuesday,08:30/10:29,TMB / --,10,20,THO_LS,21984
+THO 418,Sahne Projesi IV (Kredisiz),Physical (Face to face),Cenap Güngör,Thursday,13:30/17:29,TMB / --,5,10,THO_LS,21979
+THO 418,Sahne Projesi IV (Kredisiz),Physical (Face to face),Salim Sınar,Thursday,13:30/17:29,TMB / --,1,10,THO_LS,21985
+THO 426,Halay Oyun Repertuvarı II,Physical (Face to face),Cenap Güngör,Monday / Wednesday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,1,10,THO_LS,21994
+THO 428,Horon Oyun Repertuvarı II,Physical (Face to face),Aydın Balcı,Tuesday / Thursday,10:30/12:29 / 10:30/12:29,TMB / TMB / -- / --,0,20,THO_LS,22003
+THO 430,Karşılama- Hora Oyun Rep II,Physical (Face to face),Serdar Bombacı,Monday / Friday,08:30/10:29 / 10:30/12:29,TMB / TMB / -- / --,0,10,THO_LS,21977
+THO 432,Kaşıklı Oyunlar II,Physical (Face to face),Funda Bozkurt Saygı,Wednesday / Thursday,13:30/15:29 / 13:30/15:29,TMB / TMB / -- / --,4,5,THO_LS,25068
+THO 436,Zeybek Oyun Repertuvarı II,Physical (Face to face),Levent Ketenci,Monday / Wednesday,15:30/17:29 / 08:30/10:29,TMB / TMB / -- / --,6,10,THO_LS,21991
+THO 446,Köy Seyirlik Oyunları II,Physical (Face to face),Eyüp Uzunkaya,Wednesday / Friday,13:30/15:29 / 16:00/17:59,TMB / TMB / -- / --,1,10,THO_LS,21989
+THO 448,Modern Dans II,Physical (Face to face),Yıldız Çankaya,Wednesday / Thursday,08:30/10:29 / 08:30/10:29,TMB / TMB / -- / --,1,10,THO_LS,21998
+THO 450,Sahne Makyajı II,Physical (Face to face),Funda Bozkurt Saygı,Tuesday,13:30/17:29,TMB / --,1,10,THO_LS,21987
+THO 456,Dans Sosyolojisine Giriş,Physical (Face to face),Eyüp Uzunkaya,Thursday,08:30/10:29,TMB / --,2,10,THO_LS,21986
+THO 460,Geleneksel Takı ve Aksesuarlar,Physical (Face to face),İlknur Bektaş,Friday,08:30/10:29,TMB / --,1,10,THO_LS,21988
+THO 472,Türk Halk Oyunları II,Physical (Face to face),Cenap Güngör,Monday,13:30/15:29,TMB / --,14,15,SES_LS,21934
+THO 472,Türk Halk Oyunları II,Physical (Face to face),Cenap Güngör,Thursday,08:30/10:29,TMB / --,7,15,SES_LS,25271
+THO 492,Bitirme Çalışması,Physical (Face to face),İlknur Bektaş,-,-/-,- / -,10,100,THO_LS,21930
 TUR 101,Türk Dili I,Virtual (Online),Cemile Rümeysa Mehanı,Friday,10:30/12:29,MED / --,18,40,"AIN_LS, EHN_LS, MBI_LS, MSS_LS, SBL_LS, SDU_LS, SED_LS, SEK_LS, SEN_LS, SGI_LS, SGM_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS",20705
 TUR 102,Türk Dili II,Virtual (Online),Abdullah Esen,Tuesday,11:30/13:29,MED / --,40,40,"AIN_LS, EHN_LS, MBI_LS, MSS_LS, SBL_LS, SDU_LS, SED_LS, SEK_LS, SEN_LS, SGI_LS, SGM_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS",20701
 TUR 102,Türk Dili II,Virtual (Online),Gülsün Nakıboğlu,Tuesday,11:30/13:29,MED / --,40,40,"AIN_LS, EHN_LS, MBI_LS, MSS_LS, SBL_LS, SDU_LS, SED_LS, SEK_LS, SEN_LS, SGI_LS, SGM_LS, SIN_LS, SIS_LS, SMT_LS, STP_LS",20702
