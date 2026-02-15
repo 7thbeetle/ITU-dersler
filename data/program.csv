@@ -2883,6 +2883,10 @@ MRT 412,Management Seminar,Physical (Face to face),Levent Kırval,Thursday,08:30
 MRT 414,Physical Education II,Physical (Face to face),Hakan Çap,Friday,14:30/16:29,DZB / --,1,10,SDU_LS,23853
 MRT 422,Bridge Resource Management,Physical (Face to face),Cemil Yurtören,Tuesday,08:30/13:29,DZB / --,1,10,SDU_LS,23845
 MRT 492,Graduation Project,Physical (Face to face),Tanzer Satır,-,-/-,- / -,1,10,SDU_LS,23856
+MST 272,Marit. Human Resources Manag.,Physical (Face to face),Leyla Tavacıoğlu,Tuesday,15:30/17:29,DZB / --,2,60,"MEN_LS, MTM_LS",24906
+MST 402,Mar.Sec. & Quality Manag. Sys,Physical (Face to face),İsmail Kandemir,Wednesday,18:30/20:29,DZB / --,5,60,"MEN_LS, MTM_LS",24905
+MST 412,Ship Surveying Procedures,Physical (Face to face),Fırat Bolat,Thursday,16:30/18:29,DZB / --,0,60,MTM_LS,24903
+MST 461,Terminal & Tanker Operations,Physical (Face to face),Tanzer Satır,Tuesday,15:30/17:29,DZB / --,5,60,"MEN_LS, MTM_LS",24900
 MTH 102,Calculus II,Physical (Face to face),Samet Yücel Kadıoğlu,Monday / Tuesday,15:30/17:29 / 08:30/11:29,FEB / FEB / B1_428 / B1_428,22,35,"MBI_LS, SBL_LS",24840
 MTH 104,Calculus II,Physical (Face to face),Ahmet Kırış,Monday / Tuesday,15:30/17:29 / 08:30/11:29,INB / INB / A101 / A101,20,30,SED_LS,24917
 MTH 105,Calculus I,Physical (Face to face),Saadet Seher Özer,Tuesday,08:30/11:29,FEB / L200,11,20,SIS_LS,24918
@@ -3098,6 +3102,8 @@ NUM 202E,Fundamentals of Nuclear Engineering II,Physical (Face to face),Senem Ş
 NUM 312E,Thermal Hydraulics of Nuclear Reactors,Physical (Face to face),Üner Çolak,Wednesday,17:30/20:29,ENB / --,5,30,NUM_YD,25132
 NUM 314E,Engineering of Nuclear Power Systems,Physical (Face to face),"Senem Şentürk Lüle , / Sevan Karabetoğlu",Thursday,17:30/20:29,MKB / --,2,30,NUM_YD,25133
 OSN 421E,Marine Monitoring Techniques,Physical (Face to face),Oktay Eren Türeyen,Monday,09:30/12:29,MEDC / 2D14,9,20,"DEN_LS, OSN_YD",25099
+OSN 421E,Marine Monitoring Techniques,Physical (Face to face),Oktay Eren Türeyen,Monday,09:30/12:29,MEDC / 2D14,9,20,"DEN_LS, OSN_YD",25099
+OSN 441E,Introduction to Ocean Modeling,Virtual (Online),Bilge Tutak,Tuesday,17:30/20:29,MEDC / --,20,20,"DEN_LS, OSN_YD",25100
 OSN 441E,Introduction to Ocean Modeling,Virtual (Online),Bilge Tutak,Tuesday,17:30/20:29,MEDC / --,20,20,"DEN_LS, OSN_YD",25100
 PAZ 104,Fabric Development,Physical (Face to face),"Cevza Candan , / Umut Kıvanç Şahin",Thursday,08:30/12:29,MKB / D381B,12,30,STP_LS,24097
 PAZ 106,Color Creat.&Sustainable Appl.,Physical (Face to face),Nevin Çiğdem Gürsoy,Monday,08:30/12:29,MKB / D381B,17,30,STP_LS,24119
@@ -3160,14 +3166,6 @@ PET 457E,Individual Study,Physical (Face to face),Abdurrahman Satman,Thursday,13
 PET 467E,Anly. of Well Pressure Tests,Physical (Face to face),Murat Çınar,Monday,08:30/11:29,MDB / A205,18,25,"PET_LS, PET_YD, PETE_LS",22777
 PET 4901E,Petr. & Nat. Gas Eng. Design I,Physical (Face to face),Murat Çınar,-,-/-,- / -,22,80,"PET_LS, PETE_LS",25282
 PET 4902E,Petr. & Nat.Gas Eng. Design II,Physical (Face to face),Murat Çınar,-,-/-,- / -,54,80,"PET_LS, PETE_LS",22779
-PHY 124,Physics II,Physical (Face to face),Seda Aksoy Esinoğlu,Tuesday,13:30/16:29,FEB / D103,38,40,EHN_LS,25018
-PHY 124L,Physics II Lab,Physical (Face to face),Seda Aksoy Esinoğlu,Wednesday,13:30/15:29,FEB / --,35,35,EHN_LS,25019
-PHY 126,Physics II,Physical (Face to face),-,Tuesday,14:30/17:29,KMB / D106,4,0,"MBI_LS, SED_LS, SGI_LS, SIN_LS",25020
-PHY 126,Physics II,Physical (Face to face),Sevtap Yıldız Özbek,Tuesday,14:30/17:29,FEB / D204,40,40,"MBI_LS, SED_LS, SGI_LS, SIN_LS",25021
-PHY 126,Physics II,Physical (Face to face),Yakup Hundur,Tuesday,14:30/17:29,FEB / L400,34,40,"MBI_LS, SED_LS, SGI_LS, SIN_LS",25022
-PHY 126L,Physics II Laboratory,Physical (Face to face),Yakup Hundur,Wednesday,13:30/15:29,FEB / --,16,30,"MBI_LS, SED_LS, SGI_LS, SIN_LS",25023
-PHY 126L,Physics II Laboratory,Physical (Face to face),Sevtap Yıldız Özbek,Wednesday,11:30/13:29,FEB / --,30,30,"MBI_LS, SED_LS, SGI_LS, SIN_LS",25024
-PHY 126L,Physics II Laboratory,Physical (Face to face),-,Wednesday,09:30/11:29,FEB / --,6,0,"MBI_LS, SED_LS, SGI_LS, SIN_LS",25025
 RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,Tuesday,08:30/12:29,DZB / --,13,30,DUI_LS,23652
 RES 102,Bilg. Destekli Teknik Resim,Physical (Face to face),Melek Ertogan,Thursday,11:30/15:29,DZB / --,60,55,DUI_LS,23654
 RES 102E,Com.Aided Technical Drawing,Physical (Face to face),Yalçın Durmuşoğlu,Thursday,08:30/12:29,DZB / --,57,60,"MEN_LS, MTM_LS",24800
