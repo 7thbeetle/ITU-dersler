@@ -1480,6 +1480,7 @@ ICM 492E,Graduation Project,Physical (Face to face),Ahmet Gün,-,-/-,- / -,0,5,I
 ICM 492E,Graduation Project,Physical (Face to face),Ahmet Gün,-,-/-,- / -,0,5,ICM_LS,24608
 ICM 492E,Graduation Project,Physical (Face to face),Ahmet Gün,-,-/-,- / -,0,5,ICM_LS,24610
 IEB 112E,Intr. to Manufacturing Systems,Physical (Face to face),Ömer Faruk Beyca,Monday,14:00/16:59,BPB / --,0,40,IEBE_LS,23950
+IEB 112E,Intr. to Manufacturing Systems,Physical (Face to face),Ömer Faruk Beyca,Monday,14:00/16:59,BPB / --,0,40,IEBE_LS,23950
 IML 312,İmal Usülleri II,Physical (Face to face),Raşid Ahmed Yıldız,Tuesday,13:30/17:29,MKB / --,1,5,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",25163
 IML 322,İmalatta Otomasyon,Physical (Face to face),Erdinç Altuğ,Friday,14:30/17:29,MKB / --,1,5,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",25164
 IML 338,İmalat Sistemleri,Physical (Face to face),"Ramazan Murat Tabanlı , / Metin Kayıtmazbatır",Tuesday,10:30/13:29,MKB / --,1,5,"IML_LS, IML_MTM_LS, IML_YD, IMLE_LS",25165
@@ -1732,130 +1733,6 @@ ING 206,English IV,Physical (Face to face),Mevlüt Kahraman,Tuesday,13:30/16:29,
 ING 206,English IV,Physical (Face to face),Mevlüt Kahraman,Thursday,13:30/16:29,MSB / B11,30,35,"BST_LS, CAB_3T_LS, CAB_4T_LS, CAB_BG_LS, CAB_DL_LS, CAB_DS_LS, CAB_KA_LS, CAB_KE_LS, CAB_KL_LS, CAB_KM_LS, CAB_KO_LS, CAB_LS, CAB_ME_LS, CAB_NE_LS, CAB_TA_LS, CAB_TN_LS, CAB_UD_LS, CAB_VC_LS, CAB_VI_LS, CAB_VS_LS, CEB_LS, KMP_LS, MTR_LS, MUT_LS, MUZ_LS, MUZE_LS, MZT_LS, SES_LS, SES_TH_LS, SES_TS_LS, THO_LS",20533
 ING 206,English IV,Physical (Face to face),İsmail Akyıldız,Wednesday,08:30/11:29,MSB / B01,17,35,"BST_LS, CAB_3T_LS, CAB_4T_LS, CAB_BG_LS, CAB_DL_LS, CAB_DS_LS, CAB_KA_LS, CAB_KE_LS, CAB_KL_LS, CAB_KM_LS, CAB_KO_LS, CAB_LS, CAB_ME_LS, CAB_NE_LS, CAB_TA_LS, CAB_TN_LS, CAB_UD_LS, CAB_VC_LS, CAB_VI_LS, CAB_VS_LS, CEB_LS, KMP_LS, MTR_LS, MUT_LS, MUZ_LS, MUZE_LS, MZT_LS, SES_LS, SES_TH_LS, SES_TS_LS, THO_LS",20534
 ING 206,English IV,Physical (Face to face),İsmail Akyıldız,Thursday,08:30/11:29,MSB / B01,21,35,"BST_LS, CAB_3T_LS, CAB_4T_LS, CAB_BG_LS, CAB_DL_LS, CAB_DS_LS, CAB_KA_LS, CAB_KE_LS, CAB_KL_LS, CAB_KM_LS, CAB_KO_LS, CAB_LS, CAB_ME_LS, CAB_NE_LS, CAB_TA_LS, CAB_TN_LS, CAB_UD_LS, CAB_VC_LS, CAB_VI_LS, CAB_VS_LS, CEB_LS, KMP_LS, MTR_LS, MUT_LS, MUZ_LS, MUZE_LS, MZT_LS, SES_LS, SES_TH_LS, SES_TS_LS, THO_LS",20535
-INS 101,Teknik Resim,Physical (Face to face),Şehriban Şen,Friday,09:30/12:29,INB / D201,28,30,INS_LS,22632
-INS 101E,Technical Drawing,Physical (Face to face),Sibel Gürel,Thursday,13:30/16:29,INB / D201,27,30,"INS_LS, INSE_LS",22638
-INS 102,Statik,Physical (Face to face),Nihal Eratlı,Tuesday / Wednesday,13:30/15:29 / 12:30/14:29,INB / INB / B307 / B308,39,40,INS_LS,22675
-INS 102,Statik,Physical (Face to face),Bahattin Kimençe,Tuesday / Wednesday,13:30/15:29 / 10:30/12:29,INB / INB / A204 / B305,36,40,INS_LS,22677
-INS 102,Statik,Physical (Face to face),Abdul Hayır,Wednesday / Friday,10:30/12:29 / 10:30/12:29,INB / INB / B102 / A305,17,40,INS_LS,22678
-INS 102E,Statics,Physical (Face to face),Semih Küçükarslan,Thursday / Friday,10:30/12:29 / 14:00/15:59,INB / INB / D203 / B104,44,46,"INS_LS, INSE_LS",22680
-INS 102E,Statics,Physical (Face to face),Osman Bulut,Thursday / Friday,10:30/12:29 / 14:00/15:59,INB / INB / A304 / A102,46,46,"INS_LS, INSE_LS",22683
-INS 107E,Int. to Prog. Lang. (Python),Virtual (Online),Fırat Doğu Akın,Friday,14:00/16:59,INB / --,75,75,"INS_LS, INSE_LS",22646
-INS 112,İnşaat Mühendisleri İçin Yer Bilimi,Physical (Face to face),Yılmaz Mahmutoğlu,Wednesday,08:30/10:29,INB / A302,62,63,INS_LS,25007
-INS 112,İnşaat Mühendisleri İçin Yer Bilimi,Physical (Face to face),Şaziye Özge Dinç Göğüş,Thursday,08:30/10:29,INB / A305,63,63,INS_LS,25008
-INS 112,İnşaat Mühendisleri İçin Yer Bilimi,Physical (Face to face),Enes Zengin,Friday,08:30/10:29,INB / A104,54,63,INS_LS,25009
-INS 112E,Earth Science for Civil Engineers,Physical (Face to face),Kayhan Develi,Tuesday,08:30/10:29,INB / A204,63,63,"INS_LS, INSE_LS",25010
-INS 112E,Earth Science for Civil Engineers,Physical (Face to face),Kayhan Develi,Wednesday,08:30/10:29,INB / D202,56,63,"INS_LS, INSE_LS",25011
-INS 202E,Numerical Methods inCivil Eng.,Physical (Face to face),Atila Sezen,Monday,10:30/12:29,INB / B101,75,75,"INS_LS, INSE_LS",22723
-INS 210,İnşaat Mühendisleri için Matematik,Physical (Face to face),Elif Kartal,Tuesday,10:30/12:29,INB / A102,46,50,INS_LS,22688
-INS 210E,Mathematics for Civil Engineers,Physical (Face to face),Taha Yüksel,Tuesday,10:30/12:29,INB / B103,50,50,"INS_LS, INSE_LS",22691
-INS 214E,Partial Differential Equations,Physical (Face to face),Teoman Özer,Tuesday,09:30/12:29,INB / B206,40,55,"INS_LS, INSE_LS",22782
-INS 215E,Materials Science,Physical (Face to face),Ayda Şafak Ağar Özbek,Wednesday,09:30/12:29,INB / A202,70,70,"INS_LS, INSE_LS",22720
-INS 217,Mukavemet I,Physical (Face to face),Teoman Özer,Wednesday / Thursday,13:30/15:29 / 10:30/12:29,INB / INB / B203 / A105,50,50,INS_LS,22693
-INS 217E,Strength of Materials I,Physical (Face to face),Pınar Özdemir Çağlayan,Thursday / Friday,10:30/12:29 / 14:00/15:59,INB / INB / B201 / B201,42,50,"INS_LS, INSE_LS",22697
-INS 218,Mukavemet II,Physical (Face to face),Abdul Hayır,Wednesday / Friday,13:30/15:29 / 14:00/15:59,INB / INB / A102 / A204,41,45,INS_LS,22738
-INS 218,Mukavemet II,Physical (Face to face),Fethi Kadıoğlu,Wednesday / Friday,13:30/15:29 / 14:00/15:59,INB / INB / A103 / A101,48,45,INS_LS,22756
-INS 218,Mukavemet II,Physical (Face to face),Abdullah Gedikli,Thursday / Friday,10:30/12:29 / 10:30/12:29,INB / INB / A202 / A202,19,45,INS_LS,22762
-INS 218E,Strength of Materials II,Physical (Face to face),Hale Ergün,Wednesday / Friday,13:30/15:29 / 10:30/12:29,INB / INB / B201 / B203,42,45,"INS_LS, INSE_LS",22765
-INS 218E,Strength of Materials II,Physical (Face to face),Ünal Aldemir,Tuesday / Friday,13:30/15:29 / 10:30/12:29,INB / INB / B303 / B303,13,45,"INS_LS, INSE_LS",22774
-INS 226,Mühendis Matematik Model Esas,Physical (Face to face),Yavuz Selim Güçlü,Tuesday,09:30/12:29,INB / B205,55,55,INS_LS,22778
-INS 230,Yapı Malzemesi,Physical (Face to face),Hasan Nuri Türkmenoğlu,Thursday,13:30/16:29,INB / B201,45,45,INS_LS,22786
-INS 230,Yapı Malzemesi,Physical (Face to face),Hasan Yıldırım,Thursday,13:30/16:29,INB / B205,45,45,INS_LS,22789
-INS 230,Yapı Malzemesi,Physical (Face to face),Ünal Anıl Doğan,Wednesday,09:30/12:29,INB / B201,33,45,INS_LS,22791
-INS 230E,Building Materials,Physical (Face to face),Özkan Şengül,Wednesday,09:30/12:29,INB / A205,13,45,"INS_LS, INSE_LS",22796
-INS 230E,Building Materials,Physical (Face to face),Özgür Ekincioğlu,Thursday,13:30/16:29,INB / B203,45,45,"INS_LS, INSE_LS",22799
-INS 232,Ölçme Bilgisi,Physical (Face to face),Adil Enis Arslan,Monday,13:30/16:29,INB / B204,43,60,INS_LS,22843
-INS 232,Ölçme Bilgisi,Physical (Face to face),"Mustafa Yanalak , / Mehmet İşiler",Tuesday,13:30/16:29,INB / B302,56,60,INS_LS,22848
-INS 232E,Surveying,Physical (Face to face),Hasan Tonbul,Monday,13:30/16:29,INB / B205,60,60,"INS_LS, INSE_LS",22854
-INS 232E,Surveying,Physical (Face to face),"Serdar Bilgi , / Mustafa Fahri Karabulut",Tuesday,13:30/16:29,INB / A205,51,60,"INS_LS, INSE_LS",22859
-INS 301,Mühendislik Ekonomisi,Physical (Face to face),Fırat Doğu Akın,Thursday,10:30/12:29,INB / B205,40,40,INS_LS,22858
-INS 301E,Engineering Economics,Physical (Face to face),Atilla Damcı,Thursday,10:30/12:29,INB / B307,18,40,"AIN_LS, INS_LS, INSE_LS",22862
-INS 302,Karayolu Mühendisliği,Physical (Face to face),Hüseyin Onur Tezcan,Wednesday / Friday,13:30/15:29 / 10:30/12:29,INB / INB / B306 / B306,34,38,INS_LS,22891
-INS 302,Karayolu Mühendisliği,Physical (Face to face),"Şükrüye İyinam , / Taha Yüksel",Tuesday / Thursday,12:30/14:29 / 10:30/12:29,INB / INB / A304 / B204,38,38,INS_LS,22898
-INS 302,Karayolu Mühendisliği,Physical (Face to face),"Abdullah Hilmi Lav , / Hilmi Berk Çelikoğlu",Tuesday,13:00/16:59,INB / B205,38,38,INS_LS,22904
-INS 302,Karayolu Mühendisliği,Physical (Face to face),Kemal Selçuk Öğüt,Tuesday / Wednesday,15:30/17:29 / 08:30/10:29,INB / INB / B102 / A101,1,38,INS_LS,22906
-INS 302,Karayolu Mühendisliği,Physical (Face to face),"Murat Ergün , / Halit Özen",Tuesday,13:00/16:59,INB / --,25,25,INS_LS,25415
-INS 302E,Highway Engineering,Physical (Face to face),Halit Özen,Monday / Tuesday,08:30/10:29 / 08:30/10:29,INB / INB / A1 / B104,17,38,"AIN_LS, INS_LS, INSE_LS",22907
-INS 302E,Highway Engineering,Physical (Face to face),Oğuz Tengilimoğlu,Tuesday / Wednesday,13:00/14:59 / 08:30/10:29,INB / INB / A105 / B305,38,38,"AIN_LS, INS_LS, INSE_LS",22916
-INS 303,Zemin Mekaniği I,Physical (Face to face),Ayşegül Bayın Sarıahmetoğlu,Thursday / Friday,13:30/16:29 / 10:30/12:29,INB / INB / A301 / A203,45,45,INS_LS,22841
-INS 303E,Soil Mechanics I,Physical (Face to face),"Mustafa Hatipoğlu , / Ozan Alver",Thursday / Friday,13:30/16:29 / 10:30/12:29,INB / INB / A303 / B104,37,45,"AIN_LS, INS_LS, INSE_LS",22844
-INS 304,Yapı İşletmesi,Physical (Face to face),Gül Polat Tatar,Thursday,13:30/16:29,INB / B303,23,37,INS_LS,22931
-INS 304,Yapı İşletmesi,Physical (Face to face),Feyzi Haznedaroğlu,Monday,13:30/16:29,INB / B206,34,37,INS_LS,22932
-INS 304,Yapı İşletmesi,Physical (Face to face),Atilla Damcı,Thursday,13:30/16:29,INB / A202,37,37,INS_LS,22933
-INS 304,Yapı İşletmesi,Physical (Face to face),Harun Türkoğlu,Thursday,13:30/16:29,INB / D203,36,37,INS_LS,22934
-INS 304E,Construction Management,Physical (Face to face),Esin Ergen Pehlevan,Monday,13:30/16:29,INB / A302,27,37,"AIN_LS, INS_LS, INSE_LS",22936
-INS 304E,Construction Management,Physical (Face to face),Onur Behzat Tokdemir,Friday,09:30/12:29,INB / B308,37,37,"AIN_LS, INS_LS, INSE_LS",22937
-INS 305,Olasılık ve İstatistik,Physical (Face to face),Eyyup Ensar Başakın,Tuesday,13:00/14:59,INB / B104,29,40,INS_LS,22850
-INS 305E,Probability and Statistics,Physical (Face to face),Ayda Şafak Ağar Özbek,Tuesday,13:00/14:59,INB / B204,39,40,"AIN_LS, INS_LS, INSE_LS",22853
-INS 323,Yapı Statiği I,Physical (Face to face),Mecit Çelik,Monday / Tuesday,08:30/10:29 / 10:30/12:29,INB / INB / B302 / A201,35,35,INS_LS,22819
-INS 323,Yapı Statiği I,Physical (Face to face),Ahmet Güllü,Monday / Tuesday,13:30/15:29 / 10:30/12:29,INB / INB / A103 / A301,23,35,INS_LS,22824
-INS 323E,Theory of Structures I,Physical (Face to face),Nilay Çelik Muhtaroğlu,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / A303 / A303,13,35,"AIN_LS, INS_LS, INSE_LS",22827
-INS 323E,Theory of Structures I,Physical (Face to face),Pınar Teymür,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / A203 / D201,25,35,"AIN_LS, INS_LS, INSE_LS",22833
-INS 325,Demiryolu Müh.,Physical (Face to face),Sabahat Topuz Kiremitçi,Monday,13:30/15:29,INB / A101,39,40,INS_LS,24788
-INS 325,Demiryolu Müh.,Physical (Face to face),Taha Yüksel,Monday,13:30/15:29,INB / --,40,40,INS_LS,25383
-INS 325E,Railway Engineering,Physical (Face to face),Sabahat Topuz Kiremitçi,Tuesday,08:30/10:29,INB / D202,40,40,"AIN_LS, INS_LS, INSE_LS",22837
-INS 332,Temel İnşaatı I,Physical (Face to face),Recep İyisan,Monday,13:30/16:29,INB / B202,33,33,INS_LS,22925
-INS 332,Temel İnşaatı I,Physical (Face to face),Mustafa Hatipoğlu,Monday,13:30/16:29,INB / B203,24,33,INS_LS,22926
-INS 332,Temel İnşaatı I,Physical (Face to face),Gökhan Çevikbilen,Friday,09:30/12:29,INB / B201,33,33,INS_LS,22927
-INS 332E,Foundation Engineering I,Physical (Face to face),Esra Ece Bayat,Monday,12:30/15:29,INB / A1,33,33,"AIN_LS, INS_LS, INSE_LS",22928
-INS 332E,Foundation Engineering I,Physical (Face to face),Müge Balkaya,Monday,13:30/16:29,INB / A102,33,33,"AIN_LS, INS_LS, INSE_LS",22929
-INS 332E,Foundation Engineering I,Physical (Face to face),Berrak Teymür,Friday,09:30/12:29,INB / B304,20,33,"AIN_LS, INS_LS, INSE_LS",25349
-INS 336,Yapı Statiği II,Physical (Face to face),Mehmet Günhan Aksoylu,Thursday / Friday,08:30/10:29 / 14:00/15:59,INB / INB / A301 / A301,42,42,INS_LS,22917
-INS 336,Yapı Statiği II,Physical (Face to face),Konuralp Girgin,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / B204 / B204,42,42,INS_LS,22919
-INS 336,Yapı Statiği II,Physical (Face to face),Yavuz Durgun,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / B203 / B203,42,42,INS_LS,22920
-INS 336E,Theory of Structures II,Physical (Face to face),Ülkü Hülya Çalık Karaköse,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / B305 / B307,40,42,"AIN_LS, INS_LS, INSE_LS",22923
-INS 336E,Theory of Structures II,Physical (Face to face),Burcu Güneş,Thursday / Friday,08:30/10:29 / 14:00/15:59,INB / INB / A302 / A302,38,42,"AIN_LS, INS_LS, INSE_LS",22924
-INS 338,Betonarme I,Physical (Face to face),Mustafa Gençoğlu,Tuesday / Thursday,08:30/10:29 / 10:30/12:29,INB / INB / A201 / B206,47,47,INS_LS,22872
-INS 338,Betonarme I,Physical (Face to face),Yıldır Akkaya,Tuesday / Thursday,08:30/10:29 / 10:30/12:29,INB / INB / B204 / A301,47,47,INS_LS,22876
-INS 338,Betonarme I,Physical (Face to face),Erol Lale,Tuesday / Thursday,08:30/10:29 / 10:30/12:29,INB / INB / A303 / A302,47,47,INS_LS,22881
-INS 338,Betonarme I,Physical (Face to face),Kutlu Darılmaz,Wednesday / Thursday,13:30/15:29 / 13:30/15:29,INB / INB / A104 / A101,47,47,INS_LS,22885
-INS 338E,Reinforced Concrete I,Physical (Face to face),Cem Demir,Tuesday / Thursday,08:30/10:29 / 10:30/12:29,INB / INB / A102 / A102,41,47,"AIN_LS, INS_LS, INSE_LS",22888
-INS 338E,Reinforced Concrete I,Physical (Face to face),Alper İlki,Wednesday / Thursday,13:30/15:29 / 13:30/15:29,INB / INB / D202 / D202,47,47,"AIN_LS, INS_LS, INSE_LS",22889
-INS 344,Çelik Yapılar I,Physical (Face to face),"Güliz Bayramoğlu , / Sibel Gürel",Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / B308 / B308,17,50,INS_LS,22938
-INS 344,Çelik Yapılar I,Physical (Face to face),Kadir Özakgül,Thursday / Friday,08:30/10:29 / 14:00/15:59,INB / INB / A303 / A303,56,55,INS_LS,22940
-INS 344,Çelik Yapılar I,Physical (Face to face),Haluk Emre Alçiçek,Thursday / Friday,08:30/10:29 / 14:00/15:59,INB / INB / A202 / A203,55,55,INS_LS,22941
-INS 344E,Steel Structures I,Physical (Face to face),Ömer Tuğrul Turan,Tuesday / Wednesday,10:30/12:29 / 10:30/12:29,INB / INB / A302 / A302,26,50,"AIN_LS, INS_LS, INSE_LS",22943
-INS 344E,Steel Structures I,Physical (Face to face),Barlas Özden Çağlayan,Thursday / Friday,08:30/10:29 / 14:00/15:59,INB / INB / B204 / B204,55,55,"AIN_LS, INS_LS, INSE_LS",22944
-INS 345,Yap. Bilg. Dest. Model. Giriş,Physical (Face to face),"Fethi Kadıoğlu , / Erol Demirkan",Wednesday,09:30/12:29,INB / D100,33,30,INS_LS,22865
-INS 354,Hidroloji,Physical (Face to face),"Elif Kartal , / Eyyup Ensar Başakın",Monday,09:30/12:29,INB / D202,48,50,INS_LS,22893
-INS 354,Hidroloji,Physical (Face to face),Erdal Kesgin,Tuesday,13:30/16:29,INB / A303,49,50,INS_LS,22895
-INS 354E,Hydrology,Physical (Face to face),Mehmet Cüneyd Demirel,Monday,09:30/12:29,INB / B205,50,50,"AIN_LS, INS_LS, INSE_LS",22897
-INS 354E,Hydrology,Physical (Face to face),"Tarkan Erdik , / Şehriban Şen",Tuesday,13:30/16:29,INB / B201,19,50,"AIN_LS, INS_LS, INSE_LS",22903
-INS 360,Hidrolik,Physical (Face to face),Ercan Kahya,Monday / Wednesday,10:30/12:29 / 13:30/15:29,INB / INB / A205 / A202,67,70,"CEV_LS, INS_LS",22803
-INS 360,Hidrolik,Physical (Face to face),İsmail Dabanlı,Monday / Wednesday,10:30/12:29 / 13:30/15:29,INB / INB / A1 / A2,7,50,"CEV_LS, INS_LS",22810
-INS 360E,Hydraulics,Physical (Face to face),Cihan Bayındır,Monday / Wednesday,10:30/12:29 / 13:30/15:29,INB / INB / A305 / A305,77,70,"AIN_LS, CEV_LS, CEVE_LS, INS_LS, INSE_LS",22813
-INS 401,Su Kaynakları,Physical (Face to face),Erdal Kesgin,Wednesday,09:30/11:29,INB / A305,62,62,INS_LS,22945
-INS 401E,Water Resources,Physical (Face to face),Tarkan Erdik,Monday,09:30/11:29,INB / A201,61,62,"AIN_LS, INS_LS, INSE_LS",22948
-INS 4033,Şantiye Tekniği,Physical (Face to face),"Murat Kuruoğlu , / Feyzi Haznedaroğlu",Wednesday,09:30/12:29,INB / A1,28,35,INS_LS,22956
-INS 4036E,Fundamentals of Earthquake Eng,Physical (Face to face),Pınar Özdemir Çağlayan,Wednesday,12:30/15:29,INB / B204,20,35,"AIN_LS, INS_LS, INSE_LS",22953
-INS 4039,Yapısal Yangın Güvenliği,Physical (Face to face),"Mustafa Gençoğlu , / Tuba Büyükkayıkcı",Monday,09:30/12:29,INB / A202,50,50,"INS_LS, YAN_YD",22966
-INS 4041,Bina Tasarım Yönetimi,Physical (Face to face),Murat Kuruoğlu,Tuesday,13:30/16:29,INB / A305,70,70,"INS_LS, YAN_YD",22957
-INS 4042E,Dams,Physical (Face to face),Şevket Çokgör,Thursday,09:30/12:29,INB / B102,10,35,"AIN_LS, INS_LS, INSE_LS",22971
-INS 4044E,Plastic Dsgn of Steel Strctrs,Physical (Face to face),"Barlas Özden Çağlayan , / Sibel Gürel",Tuesday,13:30/16:29,INB / B206,14,15,"AIN_LS, INS_LS, INSE_LS",22955
-INS 4048E,Geotechnical Earthquake Eng,Physical (Face to face),Musaffa Ayşen Lav,Monday,13:30/16:29,INB / B306,33,35,"AIN_LS, INS_LS, INSE_LS",22960
-INS 4050E,Spec. Topics in Theo.of Struc.,Physical (Face to face),Burcu Güneş,Thursday,10:30/13:29,INB / A303,7,35,"AIN_LS, INS_LS, INSE_LS",24749
-INS 4051E,Finite Element Methods,Physical (Face to face),Murat Yılmaz,Friday,09:30/12:29,INB / A101,61,60,"AIN_LS, INS_LS, INSE_LS",22951
-INS 4052,Betonarme Temeller,Physical (Face to face),Tülay Aksu Özkul,Wednesday,09:30/12:29,INB / B306,5,30,INS_LS,22964
-INS 4053E,Theory of Structures III,Physical (Face to face),Ahmet Güllü,Friday,09:30/12:29,INB / A103,1,35,"AIN_LS, INS_LS, INSE_LS",24748
-INS 4054,Çelik Yapılar II,Physical (Face to face),Cüneyt Vatansever,Friday,09:30/12:29,INB / B202,13,35,INS_LS,22954
-INS 4058,İleri Beton Teknolojisi,Physical (Face to face),Özkan Şengül,Wednesday,12:30/15:29,INB / B304,20,20,INS_LS,22958
-INS 4058E,Advanced Concrete Technology,Physical (Face to face),Özgür Ekincioğlu,Monday,13:30/16:29,INB / B304,19,20,"AIN_LS, INS_LS, INSE_LS",22959
-INS 405E,Health&Safety in Construction,Physical (Face to face),Deniz Artan,Wednesday,13:30/15:29,INB / A101,55,55,"AIN_LS, INS_LS, INSE_LS",24787
-INS 4066,Betonarme Yaplr Kalıp & İskele,Physical (Face to face),Beyza Taşkın,Thursday,09:30/12:29,INB / A101,29,30,INS_LS,22968
-INS 4068E,Earthquake Resist.Des.ofStruc.,Physical (Face to face),Yasin Fahjan,Thursday,13:30/16:29,INB / A103,32,33,"AIN_LS, INS_LS, INSE_LS",22967
-INS 4070,Öngerilmeli Beton,Physical (Face to face),Yıldır Akkaya,Monday,13:30/16:29,INB / B308,11,30,INS_LS,22963
-INS 4071,Çubuk Sonlu Elemanlar,Physical (Face to face),Nihal Eratlı,Tuesday,09:30/12:29,INB / B302,0,35,INS_LS,22952
-INS 4073E,Foundation Engineering II,Physical (Face to face),Gürkan Özden,Wednesday,12:30/15:29,INB / B305,13,35,"AIN_LS, INS_LS, INSE_LS",22962
-INS 4076E,Intr.to Environmental Geotech.,Physical (Face to face),Aslı Yalçın Dayıoğlu,Monday,10:30/13:29,INB / A103,35,35,"AIN_LS, INS_LS, INSE_LS",22961
-INS 4077E,Dsgn.of Water Supp.&Sewer Sys.,Physical (Face to face),"Mehmet Cüneyd Demirel , / Mehmet Emin Paşaoğlu",Thursday,13:30/16:29,INB / A305,24,35,"AIN_LS, INS_LS, INSE_LS",22972
-INS 4084,Kıyı ve Liman Yapıları,Physical (Face to face),Şevket Çokgör,Thursday,13:30/16:29,INB / B304,2,35,"INS_LS, OSN_YD",22969
-INS 433E,Reinforced Concrete II,Physical (Face to face),"Medine İspir Arslan , / Fatih Sütcü",Monday / Tuesday,13:30/15:29 / 10:30/12:29,INB / INB / D203 / A205,70,0,"AIN_LS, INS_LS, INSE_LS",24750
-INS 462E,Engineering Ethics,Physical (Face to face),Hüseyin Onur Tezcan,Wednesday,08:30/09:29,INB / B101,135,135,"AIN_LS, INS_LS, INSE_LS",22950
-INS 4901,İnşaat Müh. Tasarımı I,Physical (Face to face),"Alper İlki , / Murat Yılmaz",-,-/-,- / -,49,200,INS_LS,22973
-INS 4901E,Civil Eng. Design I,Physical (Face to face),"Alper İlki , / Murat Yılmaz",-,-/-,- / -,18,200,"AIN_LS, INS_LS, INSE_LS",22974
-INS 4902,İnşaat Müh. Tasarımı II,Physical (Face to face),"Alper İlki , / Murat Yılmaz",-,-/-,- / -,101,200,INS_LS,22975
-INS 4902E,Civil Eng. Design II,Physical (Face to face),"Alper İlki , / Murat Yılmaz",-,-/-,- / -,46,200,"AIN_LS, INS_LS, INSE_LS",22976
-INS 492,Mühendislik Tasarım Projesi,Physical (Face to face),"Alper İlki , / Murat Yılmaz",-,-/-,- / -,0,20,INS_LS,22977
-INS 492E,Engineering Design Project,Physical (Face to face),"Alper İlki , / Murat Yılmaz",-,-/-,- / -,0,20,"INS_LS, INSE_LS",22978
 INT 101E,Experiential Learning,Physical (Face to face),Neşe Gülmez,-,-/-,- / -,0,0,-,25382
 ISE 102,Programming I,Physical (Face to face),Deniz Turgay Altılar,Friday / Friday,11:00/12:59 / 14:00/16:59,BBB / BBB / KON1 / KON1,16,45,SBL_LS,24829
 ISE 112,Discrete Mathematics,Physical (Face to face),Mehmet Keskinöz,Monday,08:30/11:29,BBB / 101,14,45,SBL_LS,24831
@@ -2814,6 +2691,9 @@ MRT 412,Management Seminar,Physical (Face to face),Levent Kırval,Thursday,08:30
 MRT 414,Physical Education II,Physical (Face to face),Hakan Çap,Friday,14:30/16:29,DZB / --,1,10,SDU_LS,23853
 MRT 422,Bridge Resource Management,Physical (Face to face),Cemil Yurtören,Tuesday,08:30/13:29,DZB / --,1,10,SDU_LS,23845
 MRT 492,Graduation Project,Physical (Face to face),Tanzer Satır,-,-/-,- / -,1,10,SDU_LS,23856
+MST 272,Marit. Human Resources Manag.,Physical (Face to face),Leyla Tavacıoğlu,Tuesday,15:30/17:29,DZB / --,3,60,"MEN_LS, MTM_LS",24906
+MST 402,Mar.Sec. & Quality Manag. Sys,Physical (Face to face),İsmail Kandemir,Wednesday,18:30/20:29,DZB / --,5,60,"MEN_LS, MTM_LS",24905
+MST 461,Terminal & Tanker Operations,Physical (Face to face),Tanzer Satır,Tuesday,15:30/17:29,DZB / --,5,60,"MEN_LS, MTM_LS",24900
 MTH 102,Calculus II,Physical (Face to face),Samet Yücel Kadıoğlu,Monday / Tuesday,15:30/17:29 / 08:30/11:29,FEB / FEB / B1_428 / B1_428,22,35,"MBI_LS, SBL_LS",24840
 MTH 104,Calculus II,Physical (Face to face),Ahmet Kırış,Monday / Tuesday,15:30/17:29 / 08:30/11:29,INB / INB / A101 / A101,20,30,SED_LS,24917
 MTH 105,Calculus I,Physical (Face to face),Saadet Seher Özer,Tuesday,08:30/11:29,FEB / L200,11,20,SIS_LS,24918
