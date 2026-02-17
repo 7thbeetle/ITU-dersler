@@ -922,7 +922,7 @@ END 382,Üretim Yöntemleri,Physical (Face to face),Hüsnü Bülent Cerit,Monday
 END 382E,Production Methods,Physical (Face to face),Esra Baş,Thursday,14:30/17:29,ISB / 104,61,60,"ENDE_LS, IND_LS",23802
 END 412,İnsan Kaynakları Yönetiminin Temelleri,Physical (Face to face),Cemil Ceylan,Thursday,14:30/17:29,MSB / 216,84,80,END_LS,23804
 END 412,İnsan Kaynakları Yönetiminin Temelleri,Physical (Face to face),Seçkin Polat,Tuesday,14:30/17:29,ISB / 103,32,80,END_LS,23806
-END 412E,Human Resource Management,Physical (Face to face),Gaye Karaçay Aydın,Thursday,14:30/17:29,MSB / B13-A,80,80,"ENDE_LS, IND_LS",23808
+END 412E,Human Resource Management,Physical (Face to face),Gaye Karaçay Aydın,Thursday,14:30/17:29,MSB / B13-A,81,80,"ENDE_LS, IND_LS",23808
 END 421E,Production Planning&Control,Physical (Face to face),Şule Itır Satoğlu,Friday,09:30/12:29,MSB / B13-A,68,65,"END_LS, ENDE_LS",23810
 END 424E,Financial Management,Physical (Face to face),Alp Üstündağ,Thursday,09:30/12:29,ISB / 206,13,60,"END_LS, ENDE_LS, IND_LS",23811
 END 426,Kurumsal Kaynakların Planlanması,Physical (Face to face),Emre Çevikcan,Monday,09:30/12:29,MSB / 113,19,60,"END_LS, ISL_LS, ISLE_LS",23812
@@ -2119,7 +2119,7 @@ KIM 206L,Ana. Kimya & Enst Anz. Lab.,Physical (Face to face),Nevin Öztekin,Frid
 KIM 206L,Ana. Kimya & Enst Anz. Lab.,Physical (Face to face),Zeynep Kalaycıoğlu,Friday,14:00/15:59,FEB / LAB-B,28,40,"GID_LS, KIM_YD, KMM_LS",23407
 KIM 207,İnorganik Kimya,Physical (Face to face),Ayfer Kalkan Burat,Tuesday,08:30/11:29,MDB / A203,10,40,"CHZ_LS, DEN_LS, ELH_LS, ELK_LS, FIZ_LS, GEM_LS, GEMK_LS, JEF_LS, JEO_LS, KIM_YD, KMM_LS, MAD_LS, PET_LS, TEL_LS",23408
 KIM 210E,Intro to Polymer Chemistry,Physical (Face to face),İbrahim Ersin Serhatlı,Monday,14:30/17:29,FEB / D304,24,40,"BIO_LS, BIOE_LS, KIM_LS, KIM_YD, KIME_LS, TEK_LS, TEKE_LS",23413
-KIM 211E,Analytical Chemistry,Physical (Face to face),İpek Becerik,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D101 / D101,11,50,"KIM_LS, KIME_LS",23415
+KIM 211E,Analytical Chemistry,Physical (Face to face),İpek Becerik,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D101 / D101,12,50,"KIM_LS, KIME_LS",23415
 KIM 212,Enstrumental Analitik Yönteml,Physical (Face to face),Aslı Baysal,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D105 / D105,32,35,KIM_LS,23417
 KIM 212,Enstrumental Analitik Yönteml,Physical (Face to face),Mustafa Özcan,Monday / Tuesday,11:30/13:29 / 11:30/13:29,FEB / FEB / D106 / D106,33,35,KIM_LS,23421
 KIM 212L,Enstrumental Analitik Yön.Lab.,Physical (Face to face),Aslı Baysal,Thursday,12:30/17:29,FEB / LAB-A,35,35,KIM_LS,23422
@@ -2134,9 +2134,9 @@ KIM 231L,Organik Kimya Lab. I,Physical (Face to face),"Ufuk Saim Günay , / Gön
 KIM 232,Organik Kimya II,Physical (Face to face),İbrahim Volkan Kumbaracı,Wednesday,08:30/12:29,FEB / D101,40,50,KIM_LS,23446
 KIM 232L,Organik Kimya Lab. II,Physical (Face to face),"Nesrin Köken , / Tuba Çakır Çanak",Friday / Friday,11:30/12:59 / 14:00/17:29,FEB / FEB / LAB-D / LAB-D,39,70,KIM_LS,23450
 KIM 252,Kimyasal Termodinamik,Physical (Face to face),Erdem Yavuz,Tuesday,14:30/17:29,FEB / D205,24,30,KIM_LS,23451
-KIM 252E,Chemical Thermodynamics,Physical (Face to face),Nermin Orakdöğen,Tuesday,14:30/17:29,FEB / D206,32,40,"KIM_LS, KIME_LS",23452
+KIM 252E,Chemical Thermodynamics,Physical (Face to face),Nermin Orakdöğen,Tuesday,14:30/17:29,FEB / D206,33,40,"KIM_LS, KIME_LS",23452
 KIM 262E,Int. Quantum Chemistry,Physical (Face to face),Mine Yurtsever,Monday,08:30/11:29,FEB / D304,45,45,"KIM_LS, KIME_LS",23458
-KIM 262E,Int. Quantum Chemistry,Physical (Face to face),Nurcan Tüzün,Monday,08:30/11:29,FEB / D103,45,45,"KIM_LS, KIME_LS",23459
+KIM 262E,Int. Quantum Chemistry,Physical (Face to face),Nurcan Tüzün,Monday,08:30/11:29,FEB / D103,49,45,"KIM_LS, KIME_LS",23459
 KIM 271,Kimyacılar için Matematik,Physical (Face to face),Berkay Sütay,Tuesday,08:30/11:29,FEB / D105,23,50,KIM_LS,23460
 KIM 311,Fiziksel Kimya I,Physical (Face to face),Caner Ünlü,Wednesday,08:30/11:29,MED / B36,27,30,KIM_LS,23462
 KIM 311,Fiziksel Kimya I,Physical (Face to face),Candan Erbil,Friday,08:30/11:29,FEB / D106,24,25,KIM_LS,23467
@@ -2149,7 +2149,7 @@ KIM 324,Adli Kimya,Physical (Face to face),Mustafa Özcan,Friday,09:30/12:29,FEB
 KIM 328,Biyokimya II,Physical (Face to face),Onur Alptürk,Monday,11:30/14:29,FEB / D306,14,20,KIM_LS,23488
 KIM 413,İlaç Kimyası,Physical (Face to face),İbrahim Volkan Kumbaracı,Monday,08:30/11:29,FEB / L400,22,20,"KIM_LS, KIM_YD",23493
 KIM 415,Yüzey Aktif Maddeler,Physical (Face to face),Cüneyt Hüseyin Ünlü,Tuesday,08:30/11:29,FEB / B3_Z01-Z03,11,20,"KIM_LS, KIM_YD",23494
-KIM 422,Endüstriyel Kimya,Physical (Face to face),Bünyamin Karagöz,Tuesday,08:30/11:29,FEB / D101,22,50,"KIM_LS, KIM_YD",23498
+KIM 422,Endüstriyel Kimya,Physical (Face to face),Bünyamin Karagöz,Tuesday,08:30/11:29,FEB / D101,23,50,"KIM_LS, KIM_YD",23498
 KIM 450E,Electrochemistry,Physical (Face to face),Belkıs Ustamehmetoğlu,Thursday,08:30/11:29,FEB / B3_Z01-Z03,14,25,"KIM_LS, KIM_YD",23502
 KIM 454E,Intr. to Computational Chem.,Physical (Face to face),Berkay Sütay,Tuesday,14:30/17:29,FEB / OBL3,20,22,"KIM_LS, KIM_YD",23503
 KIM 471,Organik Kimya III,Physical (Face to face),Ayşe Özdemir,Monday,11:30/14:29,FEB / D206,12,25,"KIM_LS, KIM_YD",23506
@@ -2497,7 +2497,7 @@ MAT 202E,Numerical Methods,Physical (Face to face),Bahtiyar Efe,Tuesday,08:30/11
 MAT 202E,Numerical Methods,Physical (Face to face),İkilem Göcek,Wednesday,12:30/15:29,MKB / D381A,31,40,"TEK_LS, TEKE_LS",24308
 MAT 202E,Numerical Methods,Physical (Face to face),İpek Yalçın Eniş,Thursday,13:30/16:29,MKB / D361A,42,41,"TEK_LS, TEKE_LS",24310
 MAT 210,Mühendislik Matematiği,Physical (Face to face),Sabire Cömert,Monday / Tuesday,08:30/10:29 / 08:30/10:29,DZB / DZB / -- / --,6,50,"DUI_LS, GMI_LS",20554
-MAT 210E,Engineering Mathematics,Physical (Face to face),Kürşat Hasözdemir,Wednesday,11:30/15:29,MDB / A204,95,65,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",22331
+MAT 210E,Engineering Mathematics,Physical (Face to face),Kürşat Hasözdemir,Wednesday,11:30/15:29,MDB / A204,96,65,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",22331
 MAT 210E,Engineering Mathematics,Physical (Face to face),Kürşat Hasözdemir,Friday,08:30/12:29,MDB / A204,83,65,"CHZ_LS, CHZE_LS, JEF_LS, JEFE_LS, JEO_LS, JEOE_LS, MAD_LS, MADE_LS, PET_LS, PETE_LS",22338
 MAT 210E,Engineering Mathematics,Physical (Face to face),Ahmet Göncü,Friday,08:30/12:29,MSB / 204,42,90,"ECNE_LS, ISL_LS, ISLE_LS",24089
 MAT 210E,Engineering Mathematics,Physical (Face to face),Sabire Cömert,Wednesday,17:30/21:29,DZB / --,8,20,"MEN_LS, MTM_LS",25395
