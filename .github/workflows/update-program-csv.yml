@@ -2,9 +2,9 @@ name: Ders Programı CSV Güncelleme
 
 on:
   workflow_dispatch:
-  schedule:
-    # Her 45 dakikada bir çalış (UTC saati)
-    - cron: "*/45 * * * *"
+#  schedule:
+#    # Her gün 09:00, 12:00 ve 18:00'de çalış (UTC+3, cron UTC: 06:00, 09:00, 15:00)
+#    - cron: "0 6,9,15 * * *"
 
 permissions:
   contents: write
