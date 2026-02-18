@@ -3325,8 +3325,16 @@ TEK 486E,Colour Analysis,Physical (Face to face),Pelin Altay,Wednesday,13:30/15:
 TEK 4901E,Textile Engineering Design I,Physical (Face to face),Nevin Çiğdem Gürsoy,-,-/-,- / -,14,100,"TEK_LS, TEKE_LS",24371
 TEK 4902E,Textile Engineering Design II,Physical (Face to face),Nevin Çiğdem Gürsoy,-,-/-,- / -,52,100,"TEK_LS, TEKE_LS",24372
 TER 201,Termodinamik,Physical (Face to face),Ramazan Keyikoğlu,Thursday,08:30/11:29,INB / A104,44,60,CEV_LS,22504
+TER 201,Termodinamik,Physical (Face to face),Ramazan Keyikoğlu,Thursday,08:30/11:29,INB / A104,44,60,CEV_LS,22504
+TER 201,Termodinamik,Physical (Face to face),Ramazan Keyikoğlu,Thursday,08:30/11:29,INB / A104,44,60,CEV_LS,22504
+TER 201,Termodinamik,Physical (Face to face),Hanzade Açma,Thursday,08:30/11:29,KMB / D202,61,75,"CEV_LS, CHZ_LS, DEN_LS, EHB_LS, GEM_LS, ISL_LS, JEO_LS, KMM_LS, KOM_LS, KON_LS, PET_LS",23190
+TER 201,Termodinamik,Physical (Face to face),Hanzade Açma,Thursday,08:30/11:29,KMB / D202,61,75,"CEV_LS, CHZ_LS, DEN_LS, EHB_LS, GEM_LS, ISL_LS, JEO_LS, KMM_LS, KOM_LS, KON_LS, PET_LS",23190
 TER 201,Termodinamik,Physical (Face to face),Hanzade Açma,Thursday,08:30/11:29,KMB / D202,61,75,"CEV_LS, CHZ_LS, DEN_LS, EHB_LS, GEM_LS, ISL_LS, JEO_LS, KMM_LS, KOM_LS, KON_LS, PET_LS",23190
 TER 201,Termodinamik,Physical (Face to face),Halil Saraçoğlu,Thursday,13:30/16:29,MEDC / ZA3,57,90,DEN_LS,24088
+TER 201,Termodinamik,Physical (Face to face),Halil Saraçoğlu,Thursday,13:30/16:29,MEDC / ZA3,57,90,DEN_LS,24088
+TER 201,Termodinamik,Physical (Face to face),Halil Saraçoğlu,Thursday,13:30/16:29,MEDC / ZA3,57,90,DEN_LS,24088
+TER 201E,Thermodynamics,Physical (Face to face),Özlem Karahan Özgün,Thursday,08:30/11:29,INB / B101,86,75,"CEV_LS, CEVE_LS",22508
+TER 201E,Thermodynamics,Physical (Face to face),Özlem Karahan Özgün,Thursday,08:30/11:29,INB / B101,86,75,"CEV_LS, CEVE_LS",22508
 TER 201E,Thermodynamics,Physical (Face to face),Özlem Karahan Özgün,Thursday,08:30/11:29,INB / B101,86,75,"CEV_LS, CEVE_LS",22508
 TES 121E,Project II,Physical (Face to face),Ozan Önder Özener,Monday / Thursday,08:30/12:29 / 08:30/12:29,MMB / MMB / 3400 / 3400,49,45,"ARC_LS, MIM_LS, MIME_LS",24729
 TES 121E,Project II,Physical (Face to face),Hatice İpek Avanoğlu,Monday / Thursday,08:30/12:29 / 08:30/12:29,MMB / MMB / 3400 / 3400,45,45,"ARC_LS, MIM_LS, MIME_LS",24730
@@ -3554,12 +3562,6 @@ UZB 479E,Air and Space Law,Physical (Face to face),Nazlı Can,Thursday,14:30/17:
 UZB 4901E,Astronautical Eng. Design I,Physical (Face to face),Melike Nikbay,-,-/-,- / -,13,500,UZBE_LS,23205
 UZB 4902E,Astronautical Eng. Design II,Physical (Face to face),Melike Nikbay,-,-/-,- / -,77,500,"UZB_LS, UZBE_LS",23209
 UZB 492E,Graduation Project,Physical (Face to face),Melike Nikbay,-,-/-,- / -,0,500,"UZB_LS, UZBE_LS",23215
-VBA 122E,Discrete Mathematics,Physical (Face to face),İzzet Göksel,Monday,14:30/17:29,MSB / 103,47,50,VBAE_LS,23974
-VBA 124E,Object Oriented Programming,Physical (Face to face),Mahmut Sami Sivri,Thursday,14:30/17:29,MSB / B20,35,40,VBAE_LS,23976
-VBA 222E,Data Structures and Algorithms,Physical (Face to face),Mehmet Ali Ergün,Tuesday,14:30/17:29,ISB / 102,21,40,VBAE_LS,23978
-VBA 224E,Stochastic Models in Data Science,Physical (Face to face),Mehmet Yasin Ulukuş,Thursday,09:30/12:29,MSB / B13-B,6,40,VBAE_LS,23979
-VBA 252E,Theory of Probability,Physical (Face to face),Mehmet Güray Güler,Tuesday,09:30/12:29,MSB / 203,59,60,"END_LS, ENDE_LS, IND_LS, VBAE_LS",23983
-VBA 312E,Data Analytics,Physical (Face to face),Mehmet Ali Ergün,Tuesday,09:30/12:29,MSB / 204,53,60,"END_LS, ENDE_LS, IND_LS, VBAE_LS",23985
 YZV 102E,Int.toPrg.forDataSci.(Python),Physical (Face to face),Tuğçe Bilen,Thursday / Thursday,09:30/12:29 / 13:30/15:29,BBB / BBB / 122 / 122,0,5,YZVE_LS,23984
 YZV 104E,Introduction to Programming for Data Science,Physical (Face to face),Ahmet Cüneyd Tantuğ,Thursday / Thursday,09:30/12:29 / 13:30/15:29,BBB / BBB / 104 / Z-17,67,75,YZVE_LS,23988
 YZV 202E,Optimization for Data Science,Physical (Face to face),Faik Boray Tek,Tuesday,13:30/16:29,BBB / Z-18,72,75,YZVE_LS,23989
